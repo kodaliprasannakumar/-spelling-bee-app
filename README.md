@@ -5,18 +5,21 @@ A fun and engaging spelling game designed for kids to master spelling through in
 ## 🎯 Features
 
 ### 🚀 Speed Round
+
 - Fast-paced spelling challenges
 - 60-second timer
 - Voice output for each word
 - Phonetic pronunciation guides
 
 ### 🧠 Memory Round
+
 - 20 rounds with 3 words each
 - Listen and remember word order
 - Voice output with definitions
 - Progress tracking
 
 ### 🎲 Surprise Round
+
 - Riddles and trivia challenges
 - Creative problem solving
 - Voice output for questions
@@ -48,6 +51,7 @@ A fun and engaging spelling game designed for kids to master spelling through in
 ## 🚀 Getting Started
 
 ### Prerequisites
+
 - Node.js 18+
 - npm or yarn
 
