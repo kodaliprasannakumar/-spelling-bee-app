@@ -47,6 +47,7 @@ git push -u origin main
 ### Step 4: Test Your Live App
 
 Once deployed, your Spelling Bee will be available at:
+
 - **URL:** `https://your-app-name.netlify.app`
 - **Features:** All 3 challenge types with voice output
 - **Mobile:** Fully responsive design
@@ -76,6 +77,7 @@ After the initial setup, Netlify will automatically redeploy your app whenever y
 ## 📞 NEED HELP?
 
 If you encounter any issues:
+
 1. Check the Netlify build logs
 2. Verify your GitHub repository is public
 3. Ensure the build command is `npm run build`
